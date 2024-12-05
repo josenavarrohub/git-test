@@ -1,4 +1,4 @@
 # git-test
 Testing repository
 
-Edited manually
+Edited manually (edit at github)
